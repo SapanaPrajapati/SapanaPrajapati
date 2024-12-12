@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SapanaPrajapati
-- 👀 I’m interested in making Websites and WebApps
+- 👀 I’m a Frontend Developer and Web Developer.
 - 🌱 I’m currently learning reactjs
 - 📫 To reach me message at sapana.prajapati2505@gmail.com
 
